@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET developer
 --------------
 
-* ✉️  You can contact me at [ahmed.samy.mo.amer@gmail.com](mailto:ahmed.samy.mo.amer@gmail.com)
+* 🌍  I'm based in Cairo
+* 🖥️  See my portfolio at [CV](http://drive.google.com/file/d/1GHTTi9GOz2WvfrZIV6cVSJb52TBy0C1K/view)
+* ✉️  You can contact me at [ahmed.samy.mo.amer@gmail.com](mailto:ahmed.samy.mo.amer@gmail.com)
+* 🧠  I'm learning Angular & .Net Core
 
 ### Skills
 
