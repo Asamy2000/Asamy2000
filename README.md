@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------
 * 🔭 I’m working as  dot net developer
 * 🌍  I'm based in Cairo
-* 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tIE3W-Kcsbdq7DwxX_S8jdNFrRiuraOu/view?usp=sharing)
 * ✉️  You can contact me at [ahmed.samy.mo.amer@gmail.com](mailto:ahmed.samy.mo.amer@gmail.com)
 * 🧠  I'm learning Node js & .Net Core
 
