@@ -32,6 +32,12 @@ I build secure, maintainable enterprise platforms, APIs, and integrations with a
 ![Hangfire](https://img.shields.io/badge/Hangfire-1F2937?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logo=swagger&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-334155?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-7C3AED?style=flat-square)
+![MediatR](https://img.shields.io/badge/MediatR-6D28D9?style=flat-square)
+![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-475569?style=flat-square)
+![Strategy & Factory](https://img.shields.io/badge/Strategy_%26_Factory-475569?style=flat-square)
+![Read/Write Separation](https://img.shields.io/badge/Read%2FWrite_Separation-0369A1?style=flat-square)
+![API Versioning](https://img.shields.io/badge/API_Versioning-0F766E?style=flat-square)
 ![Monolithic Architecture](https://img.shields.io/badge/Monolithic_Architecture-475569?style=flat-square)
 ![Multi-Tenant Systems](https://img.shields.io/badge/Multi--Tenant_Systems-0F766E?style=flat-square)
 
@@ -41,6 +47,7 @@ I build secure, maintainable enterprise platforms, APIs, and integrations with a
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3%20%7C%20SNS%20%7C%20SES%20%7C%20SQS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -57,14 +64,19 @@ I build secure, maintainable enterprise platforms, APIs, and integrations with a
 
 ## Engineering experience
 
-- Designing layered ASP.NET Core applications with clear domain, application, infrastructure, and presentation boundaries
+- Designing layered ASP.NET Core applications with domain, application, infrastructure, presentation, and dependency-injection composition boundaries
+- Applying CQRS with MediatR command handlers and separate EF Core read/write contexts
+- Using Repository, Strategy, and Factory patterns to isolate persistence and support extensible business workflows
 - Delivering ERP, CRM, LMS, e-commerce, and IoT solutions as monolithic applications and multi-tenant platforms
-- Building REST APIs with DTOs, validation, pagination, structured error handling, and OpenAPI documentation
-- Implementing identity, role/permission models, JWT authentication, SSO, and audit-friendly security workflows
+- Building versioned REST APIs with DTOs, validation, pagination, structured error handling, and OpenAPI documentation
+- Implementing identity, role/permission models, JWT and OpenID Connect authentication, SSO, and audit-friendly security workflows
 - Building real-time features with SignalR and reliable recurring or background jobs with Hangfire
 - Modeling relational data with EF Core across SQL Server, PostgreSQL, and MariaDB-compatible systems
 - Developing Angular and DevExtreme interfaces for data-heavy business and administrative workflows
-- Integrating payment gateways, external providers, devices, and other third-party services
+- Building AWS integrations with S3, SNS, SES, and SQS for storage, notifications, email, and asynchronous messaging
+- Integrating payment gateways such as Paymob, ERP platforms such as Odoo, external providers, devices, and other third-party services
+- Delivering inventory, order, logistics, sales-force, wallet, loyalty, and financial-management workflows
+- Producing dashboards and operational reports with PDF and Excel export
 - Modernizing legacy systems through staged integrations, data imports, and controlled application or database migrations
 - Working with caching, health checks, Docker-based environments, automated tests, and deployment workflows
 
